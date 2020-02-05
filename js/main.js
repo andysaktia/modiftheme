@@ -15,7 +15,7 @@
 
 //close menu collapse when click
 
-  $('.nav-link').click(function() {
+  $('.js-link').click(function() {
     $('.navbar-collapse').collapse('hide');
   });
 
